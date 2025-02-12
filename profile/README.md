@@ -3,7 +3,7 @@
 ### Türkçe/Turkish:
 
 **Kuantum Bilgi Sistemleri Tanımı:**
-Kuantum bilgi sistemleri, kuantum mekaniği ilkelerinin bilgi işleme ve iletişim süreçlerine uygulanmasını ifade eder. Geleneksel bilgisayarlar bit adı verilen 0 veya 1 değerlerini kullanan ikili sistemlere dayanırken, kuantum bilgi sistemleri, "kübit" (quantum bit) adı verilen birimlerle çalışır. Kübitler, süperpozisyon ve dolanıklık gibi kuantum fenomenlerinden yararlanarak çok daha fazla bilgiyi aynı anda işleyebilir ve bu da geleneksel bilgisayarlara kıyasla üstünlük sağlar.
+Kuantum bilgi sistemleri, kuantum mekaniği ilkelerinin bilgi işleme ve iletişim süreçlerine uygulanmasını ifade eder. Geleneksel bilgisayarlar bit adı verilen 0 veya 1 değerlerini kullanan ikili sistemlere dayanırken, kuantum bilgi sistemleri, "kübit" (kuantum bit) adı verilen birimlerle çalışır. Kübitler, süperpozisyon ve dolanıklık gibi kuantum fenomenlerinden yararlanarak çok daha fazla bilgiyi aynı anda işleyebilir ve bu da geleneksel bilgisayarlara kıyasla üstünlük sağlar.
 
 **Kullanım Alanları:**
 1. **Kriptografi:** Kuantum bilgi sistemleri, özellikle kuantum anahtar dağıtımı (KAD: QKD) sayesinde, güvenli iletişim sağlama potansiyeline sahiptir. Bu, geleneksel şifreleme yöntemlerinin yerini alabilecek yeni nesil kriptografik protokollerin geliştirilmesine olanak tanır.
